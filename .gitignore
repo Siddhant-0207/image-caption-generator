@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data and datasets
+data/
+*.csv
+*.tsv
+*.txt
+*.json
+*.h5
+*.pkl
+
+# Model checkpoints
+models/
+*.pth
+*.pt
+*.ckpt
+*.hdf5
+
+# Output files
+outputs/
+logs/
+*.log
+
+# Environment/Config
+*.cfg
+*.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
